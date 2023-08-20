@@ -1,7 +1,7 @@
 # Phase 3 - Toy Problems
 ## Table of Contents
 - [Description](https://github.com/Mwasigwa2/phase3-toyproblems#description)
-- [Toy Problems & Installation]
+- [Toy Problems & Installation](https://github.com/Mwasigwa2/phase3-toyproblems#toy-problems--installation)
 - [Project Structure](https://github.com/Mwasigwa2/phase3-toyproblems#project-structure)
 - [Author Info](https://github.com/Mwasigwa2/phase3-toyproblems#author-info)
 - [License](https://github.com/Mwasigwa2/phase3-toyproblems#license)
@@ -60,7 +60,7 @@ The project is organized into:
 - three files: challenge_one, challenge_two, challenge_three
 - README.md file
 - LICENSE
-## Author INfo
-Gathirimu Mwasigwa
+## Author Info
+[Gathirimu Mwasigwa](https://github.com/Mwasigwa2)
 ## License
-This project is licensed under the MIT License, refer to LICENSE file for more info.
+This project is licensed under the MIT License, refer to [LICENSE file](https://github.com/Mwasigwa2/phase3-toyproblems/blob/main/LICENSE) for more info.
